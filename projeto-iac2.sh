@@ -17,7 +17,7 @@ echo "Descompactando site..."
 unzip -o main.zip
 
 echo "Copiando arquivos da aplicação para o diretório padrão do Apache..."
-cd linux-site-dio
+cd linux-site-dio-main
 cp -r * /var/www/html/
 
 echo "Concluído!"
