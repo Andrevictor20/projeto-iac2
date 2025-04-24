@@ -1,4 +1,4 @@
-## 🌐 Projeto: Deploy de Site Estático com Apache
+## 🌐 Projeto: Deploy de servidor Apache com site 
 
 Este projeto automatiza a instalação de um servidor web Apache e o deploy de uma aplicação HTML disponível no GitHub.
 
